@@ -1,0 +1,14 @@
+.banner{
+    background-image: url(/portfolio/e.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    padding: 250px 0px;
+}
+.id{
+   background-image: url(/portfolio/99.jpg);
+    background-size: cover;
+    background-position: center;
+    
+}
