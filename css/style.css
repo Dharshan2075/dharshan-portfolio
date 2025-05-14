@@ -1,22 +1,21 @@
 .banner{
-    background-image: url(/portfolio/j.jpg); 
+    background-image: url(../portfolio/j.jpg); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    
     padding: 250px 0px;
 }
 
 .container-e{
-     background-image: url(/portfolio/li.jpg);
+     background-image: url(../portfolio/li.jpg);
 }
 
 .container-id{
-     background-image: url(/portfolio/k.jpg);
+     background-image: url(../portfolio/k.jpg);
 }
 
 .id{
-   background-image: url(/portfolio/18.jpg);
+   background-image: url(../portfolio/18.jpg);
       background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
