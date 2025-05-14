@@ -1,5 +1,5 @@
 .banner{
-    background-image: url(../portfolio/j.jpg); 
+    background-image: url(../j.jpg); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -7,15 +7,15 @@
 }
 
 .container-e{
-     background-image: url(../portfolio/li.jpg);
+     background-image: url(../li.jpg);
 }
 
 .container-id{
-     background-image: url(../portfolio/k.jpg);
+     background-image: url(../k.jpg);
 }
 
 .id{
-   background-image: url(../portfolio/18.jpg);
+   background-image: url(../18.jpg);
       background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
