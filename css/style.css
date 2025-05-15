@@ -1,28 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Poetsen+One&display=swap');
+
 .banner{
     background-image: url(../j.jpg); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     padding: 250px 0px;
-    height:100vh;
+    min-height:100vh;
+    font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
-.container-e{
+#about{
      background-image: url(../li.jpg);
-     height: 100vh;
+     min-height: 100vh;
 }
 
-.container-id{
+
+#skills{
      background-image: url(../k.jpg);
-     height: 100vh;
+     min-height: 100vh;
 }
 
-.id{
-   background-image: url(../18.jpg);
+#contact{
+   background-image: url(../99.jpg);
       background-size: cover;
-      height: 100vh;
+      min-height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
-
-
-    }
+}
