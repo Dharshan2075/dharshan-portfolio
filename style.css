@@ -2,30 +2,30 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Poetsen+One&display=swap');
 
 .banner{
-    background-image: url(../j.jpg); 
+    background-image: url(./Banner-bg.jpg); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     padding: 250px 0px;
     min-height:100vh;
     font-family: "Poetsen One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
+     font-weight: 400;
+     font-style: normal;
 }
 
 #about{
-     background-image: url(../li.jpg);
+     background-image: url(./About-bg.jpg);
      min-height: 100vh;
 }
 
 
 #skills{
-     background-image: url(../k.jpg);
+     background-image: url(./Skill-bg.jpg);
      min-height: 100vh;
 }
 
 #contact{
-   background-image: url(../99.jpg);
+   background-image: url(./Contact-bg.jpg);
       background-size: cover;
       min-height: 100vh;
     background-position: center;
