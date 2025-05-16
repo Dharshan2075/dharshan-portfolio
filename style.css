@@ -1,5 +1,5 @@
 .banner{
-    background-image: url('./Banner-bg.jpg'); 
+    background-image: url(./Banner-bg.jpg); 
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -11,20 +11,27 @@
 }
 
 #about{
-     background-image: url('./About-bg.jpg');
+     background-image: url(./About-bg.jpg);
      min-height: 100vh;
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
 }
 
 
 #skills{
-     background-image: url('./Skill-bg.jpg');
+     background-image: url(./Skill-bg.jpg);
      min-height: 100vh;
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
 }
 
+
 #contact{
-   background-image: url('./Contact-bg.jpg');
+   background-image: url(./Contact-bg.jpg);
       background-size: cover;
       min-height: 100vh;
-    background-position: center;
-    background-repeat: no-repeat;
+      background-position: center;
+      background-repeat: no-repeat;
 }
